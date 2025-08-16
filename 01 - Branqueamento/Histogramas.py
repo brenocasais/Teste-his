@@ -19,7 +19,3 @@ from typing import List, Dict, Optional
 
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from matplotlib.lines import Line2D
-from matplotlib.patches import Patch
-import streamlit as st
